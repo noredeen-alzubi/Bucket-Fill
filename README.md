@@ -1,5 +1,8 @@
 # Bucket-Fill
-A scaled-down paint utility with an implementation of the bucket fill tool.
+**Breadth-First Traversal**: A scaled-down paint utility with an implementation of the bucket fill tool.
+
+<img width="800" alt="screen shot 2019-01-12 at 9 30 37 pm" src="https://user-images.githubusercontent.com/30037359/51077583-599d1500-16b1-11e9-9e52-5fa056c93e79.png">
+
 
 ## The Filler Algorithm
 
